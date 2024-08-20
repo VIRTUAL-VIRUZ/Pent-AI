@@ -1,0 +1,6 @@
+
+requests
+fpdf
+transformers
+torch
+sublist3r
